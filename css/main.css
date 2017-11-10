@@ -1,4 +1,4 @@
-/*Base Style Question*/
+/*Base Style*/
 
 *{
     box-sizing: border-box;
@@ -21,6 +21,10 @@ h1{
 
 .header{
     background-color: orangered;
+/*
+    background-image: url('../img/mnet.jpg');
+    background-size: cover;
+*/
     width: 100%;
     padding: .5em; 
   
