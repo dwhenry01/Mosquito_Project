@@ -1,5 +1,5 @@
-const disagreeClick =                                   document.querySelector('button.disagree');
-const agreeClick =                                       document.querySelector('button.agree');
+const disagreeClick = document.querySelector('button.disagree');
+const agreeClick = document.querySelector('button.agree');
 const xmos = document.querySelector('img.nomos');
 const sbmt = document.querySelector('button.button');
 
